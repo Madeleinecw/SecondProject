@@ -1,7 +1,7 @@
 # SecondProject
 This is my first group completed with two of my peers over 7days. 
-We used JavaScript with Vue and JavaScript Libraries such as Leaflet to create a Map. This was an opportunity for us to not only futher enhance our
-development skills but also our GitHub and teamworking skills while using Agile methods. 
+We used JavaScript with Vue and JavaScript Libraries such as Leaflet to create a Map. This was an opportunity for us to not only further enhance our
+development skills but also our GitHub and team-working skills while using Agile methods. 
 
 # Brief
 ## Educational App
