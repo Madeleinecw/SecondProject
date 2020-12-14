@@ -19,6 +19,6 @@ https://www.highcharts.com/ HighCharts is an open-source library for rendering r
 https://leafletjs.com/ Leaflet is an open-source library for rendering maps and map functionality.
 
 ## Features I'd like to implement in the future:
-- To imporve the map functionality that will allow the user to see the exact location of the country after being selected from the dropdown menu. Currently an arrow will indicate the location, however the user still needs to manouver the map to see this arrow. I would like this to be a more automatic function. 
+- To improve the map functionality that will allow the user to see the exact location of the country after being selected from the dropdown menu. Currently an arrow will indicate the location, however the user still needs to manouver the map to see this arrow. I would like this to be a more automatic function. 
 - I would like to add futher content to the page, such as more information for the user on the Homepage. 
-- The leader board was added very last minute so I would like to imporve the look and location on the page to make it more aesthetically pleasing.  
+- The leader board was added very last minute so I would like to improve the look and location on the page to make it more aesthetically pleasing.  
